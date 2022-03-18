@@ -602,4 +602,5 @@ window.snake.more_menu = function() {
     req.send();
   }
 };
+window.snake.more_menu();
 
